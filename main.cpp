@@ -12,32 +12,29 @@ typedef char _TCHAR;
 #include "JCSTPoliV.h"
 
 int main() {
-	// object{
-	// string: name
-	// int number
-	// }
-	//
-	// object xx = new object();
-	// xx.name = "edd"
-	// xx.number=123
-	//
-	// object yy;
-	// yy.name="123"
-	// yy.number=444
 
-	JCSTPoliV* poliv = new JCSTPoliV(); //opcin 1
+	JCSTPoliV* poliv = new JCSTPoliV(); // opcin 1
+
+	bool result = poliv->es_cero();
+	if (result) {
+		cout << "verdad" << endl;
+	}
+	else {
+		cout << "falso" << endl;
+	}
 
 
-//	bool result = poliv.es_cero();
-//	if (result) {
-//		cout<<"verdad"<<endl;
-//	}
-//	else {
-//		cout<<"falso"<<endl;
-//
-//	}
+
+
+	TDAPoli = new JCSTPoliV(); // opcin 2
+	bool result2 = TDAPoli->es_cero();
+	if (result2) {
+		cout << "verdad 2" << endl;
+	}
+	else {
+		cout << "falso 2" << endl;
+	}
+
 	system("pause");
-
-
 	return 0;
 }

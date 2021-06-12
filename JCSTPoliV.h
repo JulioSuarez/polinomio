@@ -18,7 +18,10 @@ private:
 
 public:
 	JCSTPoliV();
-	JCSTPoliV(int nrot);
 	bool es_cero();
+	int grado();
 };
+
+extern JCSTPoliV *TDAPoli;
+
 #endif
