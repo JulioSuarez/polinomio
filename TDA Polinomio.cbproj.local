@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2021/06/12 15:13:51.249,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2021/06/12 15:13:51.265,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2021/06/12 15:14:10.117,C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\main.cpp=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2021/06/12 15:14:46.757,C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\main.h=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2021/06/12 15:14:58.269,C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\TDA Polinomio.cbproj=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2021/06/12 15:15:20.765,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2021/06/12 15:15:50.048,C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Vectores.h=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2021/06/12 15:15:50.048,C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Vectores.cpp=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2021/06/12 15:15:59.492,C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\PoliV.cpp=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Vectores.cpp</Transaction>
+    <Transaction>2021/06/12 15:15:59.492,C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\PoliV.h=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Vectores.h</Transaction>
+    <Transaction>2021/06/12 15:16:15.546,C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\JCSTPoliV.h=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\PoliV.h</Transaction>
+    <Transaction>2021/06/12 15:16:15.546,C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\JCSTPoliV.cpp=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\PoliV.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
